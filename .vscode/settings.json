@@ -1,0 +1,10 @@
+{
+	"conventionalCommits.scopes": [
+		"git",
+		"figma",
+		"behance",
+		"dribbble",
+		"linkedin",
+		"notion"
+	]
+}
