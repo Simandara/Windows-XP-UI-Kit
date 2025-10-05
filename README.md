@@ -2,14 +2,12 @@
 
 ![Cover](public/Cover.jpg)
 
-This Kit can help you quickly compose windows and frames for your designs and renders that need a Windows XP Style.
+This Kit can help you quickly compose windows and frames for your designs and renders that need a Windows XP, Luna Style.
 
-- Pick up from the Assets Library any component and style using the Luna theme
+- Pick iconic Windows XP controls and UI elements from the Assets Library
 - Most Controls and Visual Element has been recreated with Vector in mind, so anything can scale
-- Commons icons are included in the Assets
-- Build your Windows from the Templates and examples provided
-- Show your design with the Desktop and even the Start Menu
+- Commons icons are included in the library
+- Build your windows from my Templates and Examples
+- Showcase your design on field with the provided Desktop and the Start Menu
 
-## Showcases
-
-- [License CC-BY-NC-ND-4](LICENSE)
+[License CC-BY-NC-ND-4](LICENSE)
