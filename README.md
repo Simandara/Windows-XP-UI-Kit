@@ -13,6 +13,3 @@ This Kit can help you quickly compose windows and frames for your designs and re
 ## Showcases
 
 - [License CC-BY-NC-ND-4](LICENSE)
-- [Présentation Behance](https)
-- [Présentation Dribble](https)
-- [Promotion Linkedin](https)
